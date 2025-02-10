@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d18a509-b373-4716-b755-fa530c4fc84e" name="Changes" comment="new libry file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2d18a509-b373-4716-b755-fa530c4fc84e" name="Changes" comment="new book update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,18 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "yasith9898"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yasith9898&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/yasith9898/library-management.git",
-    "accountId": "c2a660e9-9735-46d6-94fe-faae0b137820"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yasith9898/library-management.git&quot;,
+    &quot;accountId&quot;: &quot;c2a660e9-9735-46d6-94fe-faae0b137820&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
@@ -46,16 +44,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Hi/Desktop/QA AUTOMATION/day1libry/LibraryManagementSystem/src/main/java/com/librarymanagementsystem/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Hi/Desktop/QA AUTOMATION/day1libry/LibraryManagementSystem",
+    "onboarding.tips.debug.path": "C:/Users/Hi/Desktop/QA AUTOMATION/day1libry/LibraryManagementSystem/src/main/java/com/librarymanagementsystem/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -105,7 +104,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739109567353</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new libry item update">
+      <option name="closed" value="true" />
+      <created>1739182098447</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739182098448</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new book update">
+      <option name="closed" value="true" />
+      <created>1739182166279</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739182166279</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new book update">
+      <option name="closed" value="true" />
+      <created>1739182189671</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739182189671</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,7 +146,9 @@
     <MESSAGE value="new" />
     <MESSAGE value="new libry file update s" />
     <MESSAGE value="new libry file" />
-    <option name="LAST_COMMIT_MESSAGE" value="new libry file" />
+    <MESSAGE value="new libry item update" />
+    <MESSAGE value="new book update" />
+    <option name="LAST_COMMIT_MESSAGE" value="new book update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
